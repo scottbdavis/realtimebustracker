@@ -5,3 +5,5 @@ How to Run: Obtain a unique API from mapbox and insert after mapboxgl.accessToke
 	"
 Roadmap of future improvements: Would be helpful to have alternate routes animated as well or routes to other key locations
 License information: 
+
+[Return to Home](linkurl)
